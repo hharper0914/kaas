@@ -3,3 +3,4 @@ name = "kaas"
 version = "0.1.0"
 description = "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted."
 requires-python = ">=3.10"
+# handle the edge case from the last release
